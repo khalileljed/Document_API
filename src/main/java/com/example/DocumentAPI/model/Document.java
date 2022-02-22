@@ -17,4 +17,5 @@ public class Document {
     private String bookName;
     private float bookPrice;
     private int unitSold;
+
 }
